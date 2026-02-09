@@ -1,0 +1,16 @@
+{
+    "name": "Poly.Events",
+    "rootNamespace": "",
+    "references": [
+        "GUID:92bc0159a0d1b884ab4845b6b992edb1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

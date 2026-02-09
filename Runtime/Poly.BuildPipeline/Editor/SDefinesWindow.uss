@@ -1,0 +1,42 @@
+.scripting-defines {
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.scripting-defines__header-toolbar {
+    flex-direction: row;
+    flex-grow: 0;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.scripting-defines__header-toolbar-left {
+    flex-grow: 1;
+    width: auto;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.scripting-defines__header-toolbar-right {
+    height: 100%;
+    width: auto;
+    flex-basis: 40%;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+
+.scripting-defines__header-toolbar-button {
+    flex-direction: row;
+    flex-grow: 1;
+    width: 150px;
+    height: 100%;
+}
+
+.scripting-defines__content {
+    flex-direction: column;
+    width: 100%;
+    flex-grow: 0;
+}

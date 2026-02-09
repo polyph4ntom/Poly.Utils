@@ -1,0 +1,18 @@
+{
+    "name": "Poly.BuildPipeline.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fdb6c8963d7831244b41547c234096bd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Poly.Memory.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4b3e7f42cb6b15b4dbc9d75d21dc6be7",
+        "GUID:92bc0159a0d1b884ab4845b6b992edb1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Shared/Scripts/Utils/Poly.BuildPipeline/Editor/SDefinesWindow.uss?fileID=7433441132597879392&amp;guid=7011de259c3ffd54c844a92cbf674ee3&amp;type=3#SDefinesWindow" />
+    <ui:VisualElement name="root" picking-mode="Ignore" class="scripting-defines" style="flex-grow: 1;">
+        <uie:Toolbar name="header-toolbar" picking-mode="Ignore" class="scripting-defines__header-toolbar">
+            <ui:VisualElement name="header-toolbar-left" picking-mode="Ignore" class="scripting-defines__header-toolbar-left" style="flex-grow: 0; left: 0; flex-direction: row;">
+                <uie:ToolbarButton text="Debug" name="DebugButton" focusable="false" enabled="true" class="scripting-defines__header-toolbar-button" />
+                <uie:ToolbarButton text="Development" name="DevelopmentButton" focusable="false" class="scripting-defines__header-toolbar-button" />
+                <uie:ToolbarButton text="Release" name="ReleaseButton" focusable="false" class="scripting-defines__header-toolbar-button" />
+            </ui:VisualElement>
+            <ui:VisualElement name="header-toolbar-right" class="scripting-defines__header-toolbar-right">
+                <ui:Button text="Save and Compile" name="save-button" focusable="false" />
+            </ui:VisualElement>
+        </uie:Toolbar>
+        <ui:VisualElement name="content" class="scripting-defines__content" style="flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>
