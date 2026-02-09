@@ -1,6 +1,6 @@
 using System;
 
-namespace Poly.Common
+namespace Poly.Timer
 {
     public struct FPolyTimerHandle : IEquatable<FPolyTimerHandle>
     {

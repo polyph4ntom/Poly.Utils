@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Poly.Common
+namespace Poly.Timer
 {
     public class FPolyTimer
     {

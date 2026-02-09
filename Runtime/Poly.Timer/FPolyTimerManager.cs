@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Poly.Common
+namespace Poly.Timer
 {
     public class FPolyTimerManager
     {

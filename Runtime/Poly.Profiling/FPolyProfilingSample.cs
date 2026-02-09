@@ -2,6 +2,7 @@ using System;
 using System.Runtime.CompilerServices;
 using System.Threading;
 using Poly.Common;
+using Poly.Log;
 using Unity.Profiling;
 
 namespace Poly.Profiling

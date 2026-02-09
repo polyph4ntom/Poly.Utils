@@ -1,4 +1,4 @@
-namespace Poly.Common
+namespace Poly.Log
 {
 	public enum EPolyMessageSeverity : byte
 	{

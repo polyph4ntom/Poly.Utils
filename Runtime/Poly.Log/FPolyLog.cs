@@ -2,7 +2,7 @@ using System.Diagnostics;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
-namespace Poly.Common
+namespace Poly.Log
 {
 	public static class FPolyLog
 	{

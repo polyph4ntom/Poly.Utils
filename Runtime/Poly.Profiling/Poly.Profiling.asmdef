@@ -2,7 +2,8 @@
     "name": "Poly.Profiling",
     "rootNamespace": "",
     "references": [
-        "GUID:92bc0159a0d1b884ab4845b6b992edb1"
+        "GUID:92bc0159a0d1b884ab4845b6b992edb1",
+        "GUID:ce81dfb5e3a58f34cb35ac3c4e2c05bd"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

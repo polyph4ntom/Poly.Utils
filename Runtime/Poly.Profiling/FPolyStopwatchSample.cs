@@ -1,6 +1,6 @@
 using System;
 using System.Runtime.CompilerServices;
-using Poly.Common;
+using Poly.Log;
 
 namespace Poly.Profiling
 {
