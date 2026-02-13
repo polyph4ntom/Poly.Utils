@@ -1,6 +1,6 @@
 {
   "name": "com.poly.utils",
-  "displayName": "PolyUtils",
+  "displayName": "Poly.Utils",
   "version": "0.2.0",
   "dependencies": {
     "com.unity.addressables": "2.7.6"
